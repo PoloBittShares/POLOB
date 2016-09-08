@@ -1,0 +1,2 @@
+debian/bin/polobittsharesd usr/bin
+src/polobittsharesd usr/lib/polobittshares
